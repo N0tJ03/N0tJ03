@@ -34,7 +34,7 @@
 ### 📫 Contacto
 
 - GitHub: [@N0tJ03](https://github.com/N0tJ03)
-- LinkedIn: .[Sergio Alexei Rodriguez Garcia](https://www.linkedin.com/in/sergio-alexei-rodr%C3%ADguez-garc%C3%ADa/)
+- LinkedIn: [Sergio Alexei Rodriguez Garcia](https://www.linkedin.com/in/sergio-alexei-rodr%C3%ADguez-garc%C3%ADa/)
 
 ---
 
