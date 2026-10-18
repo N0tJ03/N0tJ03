@@ -34,8 +34,7 @@
 ### 📫 Contacto
 
 - GitHub: [@N0tJ03](https://github.com/N0tJ03)
-- LinkedIn: _pon aquí tu enlace_
-- Hack The Box: _pon aquí tu perfil_
+- LinkedIn: .[Sergio Alexei Rodriguez Garcia](https://www.linkedin.com/in/sergio-alexei-rodr%C3%ADguez-garc%C3%ADa/)
 
 ---
 
