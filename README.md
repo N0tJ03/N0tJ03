@@ -26,9 +26,6 @@
 | Proyecto | Descripción |
 | -------- | ----------- |
 | [**OSCP**](https://github.com/N0tJ03/OSCP) | Metodología, cheatsheets, herramientas y writeups en español |
-| [**Captura-de-Cabeceras**](https://github.com/N0tJ03/Captura-de-Cabeceras) | Captura y análisis de cabeceras |
-| [**Investigacion-Kerne**](https://github.com/N0tJ03/Investigacion-Kerne) | Investigación sobre el kernel |
-| **Enumeración de dominio pasiva** | Reconocimiento pasivo de dominios |
 
 ### 🛠️ Stack y herramientas
 
